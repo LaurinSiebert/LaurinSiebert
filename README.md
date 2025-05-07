@@ -2,7 +2,7 @@
 
 🎓 Former professional **Opera Singer**, now transitioning into **Data & AI**  
 🔭 Currently working on **educational content** and diving into **machine learning**  
-🌱 Learning: `Transformers` • `SQL` • `PyTorch`  
+🌱 Learning: `NLP` • `SQL` • `PyTorch`  
 🤔 Always open to advice & mentorship  
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/laurin-siebert-8a790135a)
 😄 Pronouns: He/Him
