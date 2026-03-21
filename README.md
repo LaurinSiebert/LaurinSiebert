@@ -1,8 +1,8 @@
 # Hi, I'm Laurin 👋
 
 🎓 Former professional **Opera Singer**, now transitioning into **Data & AI**  
-🔭 Currently working on **machine learning**  
-🌱 Learning: `Supervised ML`  
+🔭 Currently working on **MIND**  
+🌱 Current learning focus: `non-symbolic` and `unsupervised`  
 🤔 Always open to advice & mentorship  
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/laurin-siebert-8a790135a)
 😄 Pronouns: He/Him
